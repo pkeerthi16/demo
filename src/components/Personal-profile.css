@@ -1,0 +1,31 @@
+.custom-ss-datepicker,.custom-ss-datepicker-label{
+    display: inline-block;
+}
+.custom-ss-datepicker{
+    text-align: left;
+}
+.custom-ss-playerscount,.custom-ss-playerscount-value{
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.custom-ss-datepicker-lookout-request{
+    margin-top: 30px;
+}
+.maps{
+    width: 100%;
+    height: 350px;
+  }
+  .custom-rangeslider{
+      margin-top: 60px;
+  }
+  .custom-ss-lookoutresponse-submit{
+      margin-top:30px;
+  }
+  .custom-ss-publicslider{
+    margin-top: 10px!important;
+  }
+  .custom-ss-user-profile-title{
+      text-align: center;
+      margin:30px auto;
+  }
+  

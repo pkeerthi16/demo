@@ -1,0 +1,56 @@
+.container-drag{
+    text-align: center;
+}
+.wip{
+    height: auto;
+    left:0;
+    top:10;
+    min-height: 50px;
+    border:1px solid #e7f4ff;
+}
+.header{
+    display:inline-block;
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+    width:100%;
+}
+.droppable{
+    right: 0;
+    top: 10;
+    border:1px solid #e7f4ff;
+    min-height: 30vh;
+}
+.task-header{
+    display:inline-block;
+    background-color: skyblue;
+    width:100%;
+}
+.draggable{
+    background-color: yellow;
+    width:auto;
+    height: auto;
+    display: inline-block!important;
+    color: #1f8dd6;
+    background-color: #e7f4ff;
+    margin: 0 3px 3px 0;
+    padding: 4px 7px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.custom-ss-titles{
+    text-align: left;
+}
+.draggable .custom-ss-remove-users-btn{
+    color:inherit;
+    font-size: inherit;
+    box-shadow: none;
+    border: 0;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+}
+.custom-ss-remove-users-btn span{
+    font-size: 12px;
+   
+}
